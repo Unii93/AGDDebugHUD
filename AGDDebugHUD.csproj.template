@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <LangVersion>10.0</LangVersion>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="0Harmony">
+        <HintPath>..\BepInEx\core\0Harmony.dll</HintPath>
+      </Reference>
+      <Reference Include="BepInEx">
+        <HintPath>..\BepInEx\core\BepInEx.dll</HintPath>
+      </Reference>
+      <Reference Include="AGD">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\AGD.dll</HintPath>
+      </Reference>
+      <Reference Include="FishNet.CodeAnalysis">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\FishNet.CodeAnalysis.dll</HintPath>
+      </Reference>
+      <Reference Include="FishNet.Runtime">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\FishNet.Runtime.dll</HintPath>
+      </Reference>
+      <Reference Include="Unity.TextMeshPro">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\UnityEngine.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.CoreModule">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.IMGUIModule">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.UI">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\UnityEngine.UI.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.UIModule">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.TextRenderingModule">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.InputLegacyModule">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.PhysicsModule">
+        <HintPath>C:\Program Files (x86)\Steam\steamapps\common\A Gentlemen's Dispute\A Gentlemen's Dispute_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+</Project>
