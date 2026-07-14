@@ -3,8 +3,14 @@
 AGDDebugHUD is a BepInEx plugin that displays a real-time debug overlay in the top-left corner of the screen. 
 It comes with built-in player stats and a public API so your own plugins/mods can register custom debug lines.
 
-*Compatible with BepInEx plugins and Official API mods.*
+*Compatible with BepInEx plugins and Official API mods.*  
 
+---
+# Images
+
+![](https://github.com/Unii93/AGDDebugHUD/raw/a11bb3314f63e042d72adacc13d74222ef71b17b/Images/Standing.png)
+![](https://github.com/Unii93/AGDDebugHUD/raw/a11bb3314f63e042d72adacc13d74222ef71b17b/Images/Shark.png)
+![](https://github.com/Unii93/AGDDebugHUD/raw/a11bb3314f63e042d72adacc13d74222ef71b17b/Images/Air.png)
 ---
 
 ## Built-in display
