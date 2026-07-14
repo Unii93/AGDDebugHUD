@@ -1,7 +1,7 @@
 ﻿{
   "name": "DebugHUD",
-  "version_number": "1.0.0",
+  "version_number": "1.0.2",
   "description": "API for showing dynamic values on an HUD updated every frame, compatible with BepInEx mods and Official API.",
-  "website_url": "https://github.com/Unii93/ADGDebugHUD",
+  "website_url": "https://github.com/Unii93/AGDDebugHUD",
   "dependencies": []
 }

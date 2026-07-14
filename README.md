@@ -267,4 +267,4 @@ public class MyModPlugin : IModPlugin
 4. That's it.
 
 ## Want to contact me ?
-You can reach me through the [Official AGD Discord server](https://discord.com/invite/PTvpYGmtGK) @unii_le_chat or through the [GitHub page]("https://github.com/Unii93/ADGDebugHUD").
+You can reach me through the [Official AGD Discord server](https://discord.com/invite/PTvpYGmtGK) @unii_le_chat or through the [GitHub page](https://github.com/Unii93/AGDDebugHUD).

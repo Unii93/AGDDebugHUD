@@ -46,8 +46,6 @@ namespace AGDDebugHUD
                 return;
             }
             
-
-            
             RegisterDefaultLines();
             CreateUI();
         }
